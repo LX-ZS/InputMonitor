@@ -1,0 +1,16 @@
+.workbuddy/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+.env
+venv/
+.venv/
+.DS_Store
+.vscode/
+.idea/
+*.db
+build/
+dist/
+*.spec
