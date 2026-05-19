@@ -1,0 +1,124 @@
+{
+  "CTk": {
+    "fg_color": [
+      "#F7F8FC",
+      "#070A12"
+    ]
+  },
+  "CTkFrame": {
+    "corner_radius": 18,
+    "border_width": 1,
+    "fg_color": [
+      "#FFFFFF",
+      "#111827"
+    ],
+    "top_fg_color": [
+      "#FFFFFF",
+      "#111827"
+    ],
+    "border_color": [
+      "#D9E1F2",
+      "#263247"
+    ]
+  },
+  "CTkButton": {
+    "corner_radius": 14,
+    "border_width": 0,
+    "fg_color": [
+      "#4F7CFF",
+      "#7C5CFF"
+    ],
+    "hover_color": [
+      "#3E66D9",
+      "#6A4EF0"
+    ],
+    "border_color": [
+      "#4F7CFF",
+      "#7C5CFF"
+    ],
+    "text_color": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "text_color_disabled": [
+      "#A0A7B8",
+      "#667085"
+    ]
+  },
+  "CTkLabel": {
+    "corner_radius": 0,
+    "fg_color": "transparent",
+    "text_color": [
+      "#111827",
+      "#EAF0FF"
+    ]
+  },
+  "CTkEntry": {
+    "corner_radius": 12,
+    "border_width": 1,
+    "fg_color": [
+      "#FFFFFF",
+      "#0D1320"
+    ],
+    "border_color": [
+      "#D9E1F2",
+      "#2B3750"
+    ],
+    "text_color": [
+      "#111827",
+      "#EAF0FF"
+    ],
+    "placeholder_text_color": [
+      "#8A93A6",
+      "#667085"
+    ]
+  },
+  "CTkSwitch": {
+    "corner_radius": 1000,
+    "border_width": 0,
+    "button_length": 0,
+    "fg_color": [
+      "#CED6E7",
+      "#293449"
+    ],
+    "progress_color": [
+      "#4F7CFF",
+      "#7C5CFF"
+    ],
+    "button_color": [
+      "#FFFFFF",
+      "#F2F5FF"
+    ],
+    "button_hover_color": [
+      "#F7F8FC",
+      "#FFFFFF"
+    ],
+    "text_color": [
+      "#111827",
+      "#EAF0FF"
+    ]
+  },
+  "CTkOptionMenu": {
+    "corner_radius": 12,
+    "fg_color": [
+      "#EEF3FF",
+      "#131B2A"
+    ],
+    "button_color": [
+      "#4F7CFF",
+      "#7C5CFF"
+    ],
+    "button_hover_color": [
+      "#3E66D9",
+      "#6A4EF0"
+    ],
+    "text_color": [
+      "#111827",
+      "#EAF0FF"
+    ],
+    "text_color_disabled": [
+      "#A0A7B8",
+      "#667085"
+    ]
+  }
+}
